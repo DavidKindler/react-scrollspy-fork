@@ -80,7 +80,7 @@
   "dependencies": {
     "babel-runtime": "^6.26.0",
     "classnames": "^2.2.6",
-    "prop-types": "^15.5.10"
+    "prop-types": "^15.7.2"
   },
   "keywords": [
     "react",
